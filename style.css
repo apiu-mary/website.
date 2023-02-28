@@ -1,0 +1,203 @@
+
+
+    
+
+.image-b{
+    background-image: url(image\ 6);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    
+
+    
+}
+.paragraph{
+    position: relative;
+    left: 30%;
+}
+#one{
+    color: burlywood;
+    font-weight: bold;
+}
+.words{
+    position: relative;
+    left: 8%;
+    color: white;
+}
+
+    
+
+#holder{
+    width: 400px;
+    position: relative;
+    left: 26%;
+    bottom: 6%;
+}
+#line{
+    width: 1000px;
+}
+#line-one{
+    text-align: center;
+    font-weight: 900;
+    font-size: 45px;
+    padding-top: 15%;
+}
+#line-two{
+    text-align: center;
+}
+#line-3{
+    position: relative;
+    left: 40%;
+    background-color: burlywood;
+    border-radius: 5px;
+}
+.explore{
+    position: relative;
+    left: 10%;
+}
+.line-5{
+    width: 100px;
+    position: relative;
+    right: 30%;
+    bottom: 35px;
+}
+#line-6{
+    width: 200px;
+    margin-right: 20px;
+    
+
+}
+#line-7{
+    width: 200px;
+    height: 120px;
+    margin-right: 20px;
+}
+#line-8{
+    width:200px ;
+    height: 120px;
+    margin-right: 20px;
+
+}
+.info{
+    display: flex;
+    position: relative;
+    left: 25%;
+
+}
+#first{
+    background-color: pink;
+    width: 50px;
+}
+#second{
+    background-color: white;
+}
+#third{
+    background-color: white;
+}
+#gloria{
+    position: relative;
+    right: 70%;
+    
+    width: 150px;
+    background-color: burlywood;
+    border-radius: 5px;
+    
+    
+}
+  
+#sign{
+    position: relative;
+    left: 140px;
+    color: burlywood;
+}
+#soni{
+    width: 100px;
+    position: relative;
+    right: 20%;
+    bottom: 22px;
+}
+#hand{
+    width: 200px;
+    height: 120px;
+    margin-left: 15px;
+    
+}
+#pal{
+    width: 200px;
+    height: 120px;
+    margin-left: 15px;
+}
+#impo{
+    width: 200px;
+    height: 120px;
+    margin-left: 15px;
+}
+.flex{
+    display: flex;
+    margin-left: 25%;
+
+}
+#put{
+    position: relative;
+    right: 58%;
+    width: 150px;
+    background-color: burlywood;
+    border-radius: 5px;
+
+}
+.inform{
+    background-color: rgb(17, 17, 207);
+    
+    
+}
+#plane{
+    width: 150px;
+    position: relative;
+    right: 30%;
+    bottom: 20px;
+}
+.all{
+    padding-left: 15%;
+    background-color: rgb(237, 177, 190);
+    position: relative;
+    bottom: 15px;
+    
+    
+}
+.last{
+    width: 300px;
+    height: 250px;
+    position: relative;
+    left: 45%;
+    bottom: 205px;
+    
+    
+}.marie{
+    position: relative;
+    left: 26%;
+}#gubo{
+    font-weight: bold;
+}
+
+    
+
+    
+
+    
+    
+
+    
+}
+
+
+
+    
+
+
+    
+
+
