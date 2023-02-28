@@ -183,15 +183,76 @@
     font-weight: bold;
 }
 
-    
 
-    
 
-    
-    
+#fa-brands fa-instagram{
+    position: relative;
+    left: 20%;
+}
 
+
+.kos{
+    position: relative;
+    left: 13%;
+    font-weight: bolder;
+}
+.wow{
+    position: relative;
+    left: 13%;
+}
+.tow{
+    position: relative;
     
 }
+#bro{
+    color: coral;
+}
+.pri{
+    position: relative;
+    left: 25%;
+    bottom: 88px;
+
+
+}
+.ship{
+    position: relative;
+    left: 45%;
+    bottom: 210px;
+}
+.car{
+   position: relative; 
+   left: 60%;
+   bottom: 350px;
+}
+.cop{
+    position: relative;
+    left: 80%;
+    bottom: 480px;
+}
+.ol{
+    background-color: darkblue;
+    height: 300px;
+
+}
+.jo{
+    background-color: burlywood;
+    border-radius: 5px;
+}
+
+
+
+    
+
+
+    
+
+    
+
+    
+    
+
+    
+
 
 
 
