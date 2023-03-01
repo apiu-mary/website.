@@ -3,14 +3,15 @@
     
 
 .image-b{
-    background-image: url(image\ 6);
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(image\ 6);
     background-size: cover;
     background-repeat: no-repeat;
     
     height: 100vh;
-    margin: 0;
+    margin: 0%;
     padding: 0;
     display: flex;
+
     
 
     
@@ -35,10 +36,12 @@
     width: 400px;
     position: relative;
     left: 26%;
-    bottom: 6%;
+    bottom: 40%;
 }
 #line{
     width: 1000px;
+    position: relative;
+    bottom: 10%;
 }
 #line-one{
     text-align: center;
@@ -155,25 +158,33 @@
     
 }
 #plane{
-    width: 150px;
+    width: 70px;
     position: relative;
-    right: 30%;
-    bottom: 20px;
+    left: 55%;
+    bottom: 24px;
+    color: grey;
+    
+    
 }
 .all{
     padding-left: 15%;
-    background-color: rgb(237, 177, 190);
+    
+    
     position: relative;
-    bottom: 15px;
+    bottom: 3px;
+    border-radius: 50%;
+    height: 350px;
+    width: 13%;
+    background-color: lightcoral
     
     
 }
 .last{
     width: 300px;
-    height: 250px;
+    height: 330px;
     position: relative;
-    left: 45%;
-    bottom: 205px;
+    left: 250px;
+    bottom: 250px;
     
     
 }.marie{
@@ -238,6 +249,102 @@
     background-color: burlywood;
     border-radius: 5px;
 }
+
+.pol{
+    position: relative;
+    top: 20%;
+    right: 70px;
+
+}
+.with{
+    background-color: pink;
+}
+.fa-solid fa-magnifying-glass{
+    position: relative;
+    right: 100px;
+
+    
+
+}
+.too{
+    position: relative;
+    left: 25%;
+    color: black;
+    
+}
+.top{
+    position: relative;
+    left: 100%;
+    bottom: 60px;
+    color: black;
+
+}
+#input-container { position:relative; padding:0; margin:0; 
+    color: black;
+    position: relative;
+    left: 55%;
+    bottom: 38px;
+    
+
+}
+#holder1{
+    height:20px; margin:0; padding-left: 30px; 
+    width: 400px; 
+}
+#fa fa-search{
+    position:absolute; bottom:12px; right: 180px;; width:10px; height:10px; 
+     
+}
+#icon1{
+    position:absolute; bottom:12px; left: 10px; width:10px; height:10px; 
+     
+
+}
+#icon2{
+    position:absolute; bottom:12px; left: 380px; width:10px; height:10px; 
+}
+#icon3{
+    position:absolute; bottom:12px; left: 400px; width:10px; height:10px; 
+}
+#wid1{
+    position: relative;
+    bottom: 10px;
+    color: pink;
+}
+#wid2{
+    position: relative;
+    bottom: 10px;
+    color: pink;
+}
+#wid3{
+    position: relative;
+    bottom: 10px;
+    color: pink;
+}
+#clor1{
+    color: white;
+}
+#clor2{
+    color: white;
+}
+#clor3{
+    color: white;
+}
+#clor4{
+    color: white;
+}
+#clor5{
+    color: white;
+}
+#clor6{
+    color: white;
+}
+
+
+    
+
+
+
 
 
 
